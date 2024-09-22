@@ -1,3 +1,5 @@
+em fase de construção
+
 ## Habilidades ⚙️:
 
 &nbsp; 💻 **Tecnologias Principais**
