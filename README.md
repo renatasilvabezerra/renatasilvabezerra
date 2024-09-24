@@ -1,124 +1,73 @@
-em fase de construção
+<img src="Imagens/topo.png" width="100%">
+
 
 ## Habilidades ⚙️:
 
-&nbsp; 💻 **Tecnologias Principais**
+ 💻 **Tecnologias Principais**
 
-<table>
-    <tr>
-        <td align="center" width="96">
-            <img src="Imagens/KotlinLogo.png" alt="Kotlin" width="40" height="40">
-            <br>Kotlin
-        </td>
-        <td align="center" width="96">
-            <img src="Imagens/FirebaseLogo.png" alt="Firebase" width="40" height="40">
-            <br>Firebase
-        </td>
-        <td align="center" width="96">
-            <img src="Imagens/AngularLogo.png" alt="Angular" width="40" height="40">
-            <br>Angular
-        </td>
-        <td align="center" width="96">
-            <img src="Imagens/JavascriptLogo.png" alt="Javascript" width="40" height="40">
-            <br>Javascript
-        </td>
-    </tr>
-</table>
+ ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ 	![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  	![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+    
+          
 
 <details>
-  <summary><b>🧠 &nbsp;Conhecimentos técnicos Avançados</b></summary>
+  <summary><b>🧠 &nbsp;Linguagens de Programação</b></summary>
 &nbsp;
 
-<table>
-    <tr>
-        <td align="center" width="96">
-            <img src="Imagens/KotlinLogo.png" alt="Kotlin" width="40" height="40">
-            <br>Kotlin
-        </td>
-        <td align="center" width="96">
-            <img src="Imagens/FirebaseLogo.png" alt="Firebase" width="40" height="40">
-            <br>Firebase
-        </td>
-        <td align="center" width="96">
-            <img src="Imagens/AngularLogo.png" alt="Angular" width="40" height="40">
-            <br>Angular
-        </td>
-        <td align="center" width="96">
-            <img src="Imagens/JavascriptLogo.png" alt="Javascript" width="40" height="40">
-            <br>Javascript
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96">
-            <img src="Imagens/htmlLogo.png" alt="HTML" width="40" height="40">
-            <br>HTML
-        </td>
-        <td align="center" width="96">
-            <img src="Imagens/cssLogo.png" alt="CSS" width="40" height="40">
-            <br>CSS
-        </td>
-        <td align="center" width="96">
-            <img src="Imagens/JavaLogo.png" alt="Java" width="40" height="40">
-            <br>Java
-        </td>
-        <td align="center" width="96">
-            <img src="Imagens/PythonLogo.png" alt="Python" width="40" height="40">
-            <br>Python
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96">
-            <img src="Imagens/BashLogo.png" alt="Bash" width="40" height="40">
-            <br>Bash
-        </td>
-        <td align="center" width="96">
-            <img src="Imagens/TypescriptLogo.png" alt="TypeScript" width="40" height="40">
-            <br>TypeScript
-        </td>
-        <td align="center" width="96">
-            <img src="Imagens/GitLogo.png" alt="GIT" width="40" height="40">
-            <br>Git
-        </td>
-    </tr>
-</table>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 </details>
 
 <br/>
 
 <details>
-  <summary><b>🧠 &nbsp;Outros conhecimentos</b></summary>
+  <summary><b>🧠 &nbsp;Linguagens de Marcação e Estilo</b></summary>
 &nbsp;
 
-<table>
-    <tr>
-        <td align="center" width="96">
-            <img src="Imagens/c++Logo.png" alt="C++" width="40" height="40">
-            <br>&nbsp;C++&nbsp;
-        </td>
-        <td align="center" width="96">
-            <img src="Imagens/phpLogo.png" alt="Php" width="40" height="40">
-            <br>&nbsp;PHP&nbsp;
-        </td>
-        <td align="center" width="96">
-            <img src="Imagens/AdobeLogo.png" alt="Adobe" width="40" height="40">
-            <br>Adobe
-        </td>
-        <td align="center" width="96">
-            <img src="Imagens/PowerShellLogo.png" alt="PowerShell" width="40" height="40">
-            <br>PowerShell
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96">
-            <img src="Imagens/ReactLogo.png" alt="React" width="40" height="40">
-            <br>React
-        </td>
-        <td align="center" width="96">
-            <img src="Imagens/SqlLogo.png" alt="SQL" width="40" height="40">
-            <br>&nbsp;SQL&nbsp;
-        </td>
-    </tr>
-</table>
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+</details>
+
+<br/>
+
+<details>
+  <summary><b>🧠 &nbsp;Bibliotecas e Frameworks</b></summary>
+&nbsp;
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+
+</details>
+
+
+<br/>
+
+<details>
+  <summary><b>🧠 &nbsp;Banco de Dados</b></summary>
+&nbsp;
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+
+
+</details>
+
+
+<details>
+  <summary><b>🧠 &nbsp;Outras linguagens</b></summary>
+&nbsp;
+
+![BashScript](https://img.shields.io/badge/bash%20script-0101?style=for-the-badge&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000)
+![PL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
+
 
 </details>
