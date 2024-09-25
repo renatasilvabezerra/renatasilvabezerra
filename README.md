@@ -13,7 +13,7 @@
 </div>
 
 
-## Habilidades ⚙️:
+## Habilidades:
 
  💻 **Ferramentas**
 
