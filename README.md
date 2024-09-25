@@ -1,5 +1,17 @@
 <img src="topo.png" width="100%">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,meu+nome+é+Renata+:%29;+Computer+Science+:%29;)](https://git.io/typing-svg)
+
+
+<div>
+ 
+## Contato: 
+
+[![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:rsbezerra25@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/renata-silva-bezerra-2024-dev/)
+
+</div>
+
 
 ## Habilidades ⚙️:
 
