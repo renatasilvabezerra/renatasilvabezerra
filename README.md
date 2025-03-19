@@ -8,7 +8,7 @@
 ## Contato: 
 
 [![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:rsbezerra25@gmail.com)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/renata-silva-bezerra-2024-dev/)
+
 
 </div>
 
@@ -30,10 +30,7 @@
   <summary><b>🧠 &nbsp;Linguagens de Programação</b></summary>
 &nbsp;
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42.png" alt="bash" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 </details>
 
@@ -81,7 +78,7 @@
   <summary><b>🧠 &nbsp;Outras linguagens</b></summary>
 &nbsp;
 
-![BashScript](https://img.shields.io/badge/bash%20script-0101?style=for-the-badge&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000)
+
 ![PL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
 
 
