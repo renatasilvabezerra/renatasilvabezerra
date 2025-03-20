@@ -60,7 +60,6 @@
 
 </details>
 
-
 <br/>
 
 <details>
@@ -73,6 +72,7 @@
 
 </details>
 
+<br/>
 
 <details>
   <summary><b>🧠 &nbsp;Outras linguagens</b></summary>
