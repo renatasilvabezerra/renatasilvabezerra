@@ -15,7 +15,8 @@
 
 ## Habilidades:
 
- 💻 **Ferramentas**
+<details>
+  <summary><b>💻 &nbsp;Ferramentas</b></summary>
 
  ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  	![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -23,7 +24,7 @@
 
    <img src="octocat (1).png" width="300px" align="right">
     
-
+</details>
           
 
 <details>
